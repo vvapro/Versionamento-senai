@@ -2,7 +2,7 @@
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
 
-   <H1> git-versionamento </H1>
+   <H1> versionamento </H1>
 
 </BODY>
 </HTML>
